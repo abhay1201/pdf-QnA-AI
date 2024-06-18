@@ -21,16 +21,19 @@ To get started with this project, follow these steps:
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-Run the application:
+4. Run the application:
+   ```bash
+   streamlit run app.py
 
-```bash
- streamlit run app.py
 Access the application in your web browser at http://localhost:8501.
 
 Upload a PDF file and ask questions to get answers based on the document's content.
 
-Follow Step-by-Step Video Guide
+### Follow Step-by-Step Video Guide
 Watch the instructional video on Google Drive for a detailed walkthrough.
+```brash
+  https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link
+
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major updates, please open an issue first to discuss potential changes.
@@ -39,6 +42,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
+
 Built using Streamlit, SpaCy, and other open-source libraries.
 GloVe embeddings for text representation.
 Inspired by the need for AI-powered document analysis and question answering.
