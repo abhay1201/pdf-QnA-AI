@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 
 ### Download Project Files
 
-1. Download the project files from the [Google Drive folder](https://drive.google.com/drive/folders/1aGgXSqFQEziZdpylXVs_MFfrK3eE2O3F?usp=drive_link).
+1. Download the project files from the [Google Drive folder](https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link).
    
 2. Extract the downloaded zip file to your local machine.
 
@@ -19,19 +19,19 @@ To get started with this project, follow these steps:
 2. Navigate to the directory where you extracted the project files.
 
 3. Install dependencies:
-pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
 Run the application:
 
+bash
+Copy code
 streamlit run app.py
-
 Access the application in your web browser at http://localhost:8501.
 
 Upload a PDF file and ask questions to get answers based on the document's content.
 
-### follow step by step uploaded video on my driveLink
-
-https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link
+Follow Step-by-Step Video Guide
+Watch the instructional video on Google Drive for a detailed walkthrough.
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major updates, please open an issue first to discuss potential changes.
