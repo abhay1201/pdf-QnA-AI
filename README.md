@@ -31,8 +31,9 @@ Upload a PDF file and ask questions to get answers based on the document's conte
 
 ### Follow Step-by-Step Video Guide
 Watch the instructional video on Google Drive for a detailed walkthrough.
-   ```brash
-    https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link
+ ```bash
+   https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link
+
 
 
 Contributing
