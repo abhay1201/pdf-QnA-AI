@@ -23,9 +23,8 @@ To get started with this project, follow these steps:
    pip install -r requirements.txt
 Run the application:
 
-bash
-Copy code
-streamlit run app.py
+```bash
+ streamlit run app.py
 Access the application in your web browser at http://localhost:8501.
 
 Upload a PDF file and ask questions to get answers based on the document's content.
