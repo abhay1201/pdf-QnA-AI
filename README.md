@@ -29,10 +29,14 @@ Access the application in your web browser at http://localhost:8501.
 
 Upload a PDF file and ask questions to get answers based on the document's content.
 
-### Follow Step-by-Step Video Guide
+### Follow Step-by-Step Video Guide :
+   ```bash
+   https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link
+
+### 
 Watch the instructional video on Google Drive for a detailed walkthrough.
  ```bash
-https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link
+
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major updates, please open an issue first to discuss potential changes.
