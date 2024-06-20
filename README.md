@@ -4,14 +4,14 @@ This project implements an AI model that extracts information from PDF documents
 
 ## Getting Started
 
-Due to the large file size(greater than 3gb, it can be upload by premium only) , the project files couldn't be uploaded directly to GitHub. However, I have provided all the necessary files required for this project in the [Google Drive folder](https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link). You can also check the videos for transparency and guidance.
+Due to the large file size(greater than 3gb, it can be upload by premium only) , the project files couldn't be uploaded directly to GitHub. However, I have provided all the necessary files required for this project in the [Google Drive folder](https://drive.google.com/drive/folders/1aGgXSqFQEziZdpylXVs_MFfrK3eE2O3F?usp=drive_link). You can also check the videos for transparency and guidance.
 
 
 To get started with this project, follow these steps:
 
 ### Download Project Files
 
-1. Download the project files from the [Google Drive folder](https://drive.google.com/drive/folders/19kA2Il4ztILOnN1ZEhJRZygjopy1sN9v?usp=drive_link).
+1. Download the project files from the [Google Drive folder](https://drive.google.com/drive/folders/1aGgXSqFQEziZdpylXVs_MFfrK3eE2O3F?usp=drive_link).
    
 2. Extract the downloaded zip file to your local machine.
 
